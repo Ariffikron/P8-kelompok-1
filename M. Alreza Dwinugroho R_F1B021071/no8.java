@@ -3,7 +3,7 @@ public interface TampilLaporan {
     void tampilMobile();
 }
 
-interface CetakLaporan {
+public interface CetakLaporan {
     void cetakA4();
     void cetakA3();
 }
